@@ -1,0 +1,4595 @@
+{
+    "workable": {
+        "weapon": [
+                {
+                    "name": "Gunpowder",
+                    "components": [
+                        {
+                            "name": "Wood",
+                            "amount": 600
+                        },
+                        {
+                            "name": "Stone",
+                            "amount": 150
+                        },
+                        {
+                            "name": "Flint",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Hexagon Nail",
+                    "components": [
+                        {
+                            "name": "Pig Iron",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Hardwood Vine",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Bone",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Pig Iron",
+                    "components": [
+                        {
+                            "name": "Iron Ore",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Twig",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Iron Casting",
+                    "components": [
+                        {
+                            "name": "Tin Ore",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Iron Ore",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Wood Core",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Screw",
+                    "components": [
+                        {
+                            "name": "Iron Casting",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Little Branch",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Hemp Seed",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Sulfur",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Smokeless Gunpowder",
+                    "components": [
+                        {
+                            "name": "Gunpowder",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Potassium Nitrate",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Kyanite",
+                            "amount": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Hard Aluminum Alloy",
+                    "components": [
+                        {
+                            "name": "Aluminum Ore",
+                            "amount": 5
+                        },
+                        {
+                            "name": "Tin Ore",
+                            "amount": 5
+                        },
+                        {
+                            "name": "Old Cypress",
+                            "amount": 9
+                        },
+                        {
+                            "name": "Tree Oil",
+                            "amount": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Steel",
+                    "components": [
+                        {
+                            "name": "Pig Iron",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Silicon",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Tungsten Rod",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Steel Pipe",
+                    "components": [
+                        {
+                            "name": "Copper Ore",
+                            "amount": 5
+                        },
+                        {
+                            "name": "Aluminum Ore",
+                            "amount": 5
+                        },
+                        {
+                            "name": "Boxwood",
+                            "amount": 9
+                        },
+                        {
+                            "name": "Galena",
+                            "amount": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Spring",
+                    "components": [
+                        {
+                            "name": "Silver Ore",
+                            "amount": 6
+                        },
+                        {
+                            "name": "Pyrargyrite",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Copper Ore",
+                            "amount": 6
+                        },
+                        {
+                            "name": "Steel Bar",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Old Oak",
+                            "amount": 12
+                        }
+                    ]
+                },
+                {
+                    "name": "Engineering Plastic",
+                    "components": [
+                        {
+                            "name": "Plastic",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Silver Ore",
+                            "amount": 6
+                        },
+                        {
+                            "name": "Beast Blood",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Fiberglass",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Birch Root",
+                            "amount": 7
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon Part",
+                    "components": [
+                        {
+                            "name": "Redwood",
+                            "amount": 13
+                        },
+                        {
+                            "name": "Steel",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Gold Ore",
+                            "amount": 7
+                        },
+                        {
+                            "name": "Rare-earth Ore",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Beast Hoof",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Titanium Alloy",
+                    "components": [
+                        {
+                            "name": "Cedar leaves",
+                            "amount": 7
+                        },
+                        {
+                            "name": "Rare-earth Ore",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Beast Spine",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Spring",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Hard Aluminum Alloy",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Amalgam",
+                    "components": [
+                        {
+                            "name": "Quicksilver",
+                            "amount": 8
+                        },
+                        {
+                            "name": "Gold Ore",
+                            "amount": 8
+                        },
+                        {
+                            "name": "Copper Ore",
+                            "amount": 8
+                        },
+                        {
+                            "name": "Kenaf Bast",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Hard Aluminum Alloy",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "High Temperature Alloy",
+                    "components": [
+                        {
+                            "name": "Kamacite",
+                            "amount": 8
+                        },
+                        {
+                            "name": "Beast Tail",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Elm Bark",
+                            "amount": 8
+                        },
+                        {
+                            "name": "Pyrite",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Low-temp Steel",
+                    "components": [
+                        {
+                            "name": "Steel",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Quicksilver",
+                            "amount": 8
+                        },
+                        {
+                            "name": "Spinel",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Pinecone",
+                            "amount": 8
+                        },
+                        {
+                            "name": "Rare-earth Ore",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Medium-carbon Steel",
+                    "components": [
+                        {
+                            "name": "Dogbane Stalk",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Elm Leaves",
+                            "amount": 15
+                        },
+                        {
+                            "name": "Spinel",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Pyrite",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Soft Magnetic Alloy",
+                    "components": [
+                        {
+                            "name": "Bornite",
+                            "amount": 6
+                        },
+                        {
+                            "name": "Volcanic Ash",
+                            "amount": 6
+                        },
+                        {
+                            "name": "Camphor",
+                            "amount": 23
+                        },
+                        {
+                            "name": "Bugbane",
+                            "amount": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Cast Iron",
+                    "components": [
+                        {
+                            "name": "Bornite",
+                            "amount": 6
+                        },
+                        {
+                            "name": "Camphor Leaf",
+                            "amount": 12
+                        },
+                        {
+                            "name": "Wood Ash",
+                            "amount": 12
+                        },
+                        {
+                            "name": "Beast Antler",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Strong Steel",
+                            "amount": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Resistance Alloy",
+                    "components": [
+                        {
+                            "name": "White Birch",
+                            "amount": 28
+                        },
+                        {
+                            "name": "Phosphorite Ore",
+                            "amount": 14
+                        },
+                        {
+                            "name": "Wood Ash",
+                            "amount": 15
+                        },
+                        {
+                            "name": "Soft Hide",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Bone Spur",
+                            "amount": 8
+                        }
+                    ]
+                },
+                {
+                    "name": "Carbon Steel",
+                    "components": [
+                        {
+                            "name": "White Birch",
+                            "amount": 24
+                        },
+                        {
+                            "name": "Apatite",
+                            "amount": 7
+                        },
+                        {
+                            "name": "Tentacle",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Amorphous Alloy",
+                    "components": [
+                        {
+                            "name": "Tung Tree",
+                            "amount": 28
+                        },
+                        {
+                            "name": "Cerussite",
+                            "amount": 14
+                        },
+                        {
+                            "name": "White Rabbit Fur",
+                            "amount": 4
+                        },
+                        {
+                            "name": "Venomous Bee Stinger",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Soft Shell",
+                            "amount": 8
+                        }
+                    ]
+                },
+                {
+                    "name": "Weathering Steel",
+                    "components": [
+                        {
+                            "name": "Tung Tree",
+                            "amount": 24
+                        },
+                        {
+                            "name": "Barite",
+                            "amount": 7
+                        },
+                        {
+                            "name": "Tough Pincher",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Silicon Manganese",
+                    "components": [
+                        {
+                            "name": "Wutong Wood",
+                            "amount": 28
+                        },
+                        {
+                            "name": "Manganese Ore",
+                            "amount": 14
+                        },
+                        {
+                            "name": "Flexible Silk Cocoon",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Tentacle",
+                            "amount": 8
+                        },
+                        {
+                            "name": "White Rabbit Fur",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Bulb Flat Steel",
+                    "components": [
+                        {
+                            "name": "Acacia",
+                            "amount": 7
+                        },
+                        {
+                            "name": "Flourite",
+                            "amount": 7
+                        },
+                        {
+                            "name": "Poison Gland",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Allumen",
+                    "components": [
+                        {
+                            "name": "Mahogany",
+                            "amount": 28
+                        },
+                        {
+                            "name": "Zinc Ore",
+                            "amount": 14
+                        },
+                        {
+                            "name": "Duvernoy's Gland",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Barbs",
+                            "amount": 8
+                        },
+                        {
+                            "name": "White Rabbit Fur",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Structural Steel",
+                    "components": [
+                        {
+                            "name": "Zinc Ore",
+                            "amount": 12
+                        },
+                        {
+                            "name": "Smithsonite",
+                            "amount": 7
+                        },
+                        {
+                            "name": "Sharp Fang",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Nickel Titanium Alloy",
+                    "components": [
+                        {
+                            "name": "Red Coral",
+                            "amount": 28
+                        },
+                        {
+                            "name": "Nickel Ore",
+                            "amount": 14
+                        },
+                        {
+                            "name": "Ammonite Fossil",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Sucking Disc",
+                            "amount": 8
+                        },
+                        {
+                            "name": "White Rabbit Fur",
+                            "amount": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Silicon Steel",
+                    "components": [
+                        {
+                            "name": "Nickel Ore",
+                            "amount": 12
+                        },
+                        {
+                            "name": "Hydrothermal Mineral",
+                            "amount": 7
+                        },
+                        {
+                            "name": "Ink Sack",
+                            "amount": 4
+                        }
+                    ]
+                }
+            ],
+        "armor": [
+            {
+                "name": "Rag",
+                "components": [
+                    {
+                        "name": "Hemp",
+                        "amount": 15
+                    },
+                    {
+                        "name": "Plant Root",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Cloth",
+                "components": [
+                    {
+                        "name": "Rag",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Hemp Bast",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "name": "Plastic",
+                "components": [
+                    {
+                        "name": "Resin",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Potassium Nitrate",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Cloth",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Hemp Stem",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Nylon Cloth",
+                "components": [
+                    {
+                        "name": "Flax Leaf",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Flax Petal",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Cypress Leaf",
+                        "amount": 5
+                    }
+                ]
+            },
+            {
+                "name": "Polyester Cloth",
+                "components": [
+                    {
+                        "name": "Jute Leaf",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Flax Leaf",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Broadleaf",
+                        "amount": 5
+                    },
+                    {
+                        "name": "Jute Stem",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "name": "Leather",
+                "components": [
+                    {
+                        "name": "Hide",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Potassium Nitrate",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Tape",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Jute Leaf",
+                        "amount": 3
+                    }
+                ]
+            },
+            {
+                "name": "Flannel",
+                "components": [
+                    {
+                        "name": "Sisal Leaf",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Kenaf Bast",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Seaweed Leaf",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Rugged Tail",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Fowl Feather",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Sewing Thread",
+                "components": [
+                    {
+                        "name": "Sisal Leaf",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Kenaf Bast",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Fowl Feather",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Pearl",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Wool",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fiber Cloth",
+                "components": [
+                    {
+                        "name": "Nettle Leaf",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Castor Bast",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Sisal Leaf",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Flax Leaf",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Fowl Feather",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Fiberglass+",
+                "components": [
+                    {
+                        "name": "Glass",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Steel",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Castor Bast",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Polyester Cloth",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Fowl Feather",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Flannel Cloth",
+                "components": [
+                    {
+                        "name": "Hops",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Nanmu",
+                        "amount": 15
+                    },
+                    {
+                        "name": "Hide",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Flannel",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Nylon Cloth",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Polyamide Fabric",
+                "components": [
+                    {
+                        "name": "Kendir",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Scale",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Elm Leaves",
+                        "amount": 15
+                    },
+                    {
+                        "name": "Dogbane Stalk",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Silica Gel",
+                "components": [
+                    {
+                        "name": "Pinecone",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Mallow Stalk",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Fowl Feather",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Fiber Cloth",
+                        "amount": 1
+                    },
+                    {
+                        "name": "Nylon Cloth",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Blended Material",
+                "components": [
+                    {
+                        "name": "Kendir",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Scale",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Elm Bark",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Mallow Stalk",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Plain Fabric",
+                "components": [
+                    {
+                        "name": "Bugbane Stem",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Seaweed Leaf",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Beast Antler",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Volcanic Rock",
+                        "amount": 11
+                    }
+                ]
+            },
+            {
+                "name": "Nanofiber",
+                "components": [
+                    {
+                        "name": "Bugbane Stem",
+                        "amount": 3
+                    },
+                    {
+                        "name": "Camphor Leaf",
+                        "amount": 12
+                    },
+                    {
+                        "name": "Wood Ash",
+                        "amount": 12
+                    },
+                    {
+                        "name": "Dorsal Fin",
+                        "amount": 6
+                    },
+                    {
+                        "name": "Aramid Fiber",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "name": "Coated Fabric",
+                "components": [
+                    {
+                        "name": "Phosphorite Ore",
+                        "amount": 14
+                    },
+                    {
+                        "name": "Urtica Leaf",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Volcanic Ash",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Soft Hide",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Bone Spur",
+                        "amount": 8
+                    }
+                ]
+            },
+            {
+                "name": "Electrospun Thread",
+                "components": [
+                    {
+                        "name": "Phosphorite Ore",
+                        "amount": 12
+                    },
+                    {
+                        "name": "Urtica Stem",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Tentacle",
+                        "amount": 4
+                    }
+                ]
+            },
+            {
+                "name": "Coral Fleece",
+                "components": [
+                    {
+                        "name": "Cerussite",
+                        "amount": 14
+                    },
+                    {
+                        "name": "Trema Dielsiana",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Venomous Bee Stinger",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Soft Shell",
+                        "amount": 8
+                    }
+                ]
+            },
+            {
+                "name": "Bionic Plate",
+                "components": [
+                    {
+                        "name": "Cerussite",
+                        "amount": 12
+                    },
+                    {
+                        "name": "Trema Dielsiana Seed",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Tough Pincher",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Wood Ash",
+                        "amount": 13
+                    }
+                ]
+            },
+            {
+                "name": "Acacia Cloth",
+                "components": [
+                    {
+                        "name": "Manganese Ore",
+                        "amount": 14
+                    },
+                    {
+                        "name": "Acacia",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Flexible Silk Cocoon",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Tentacle",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Gray Rabbit Fur",
+                        "amount": 8
+                    }
+                ]
+            },
+            {
+                "name": "Spandex",
+                "components": [
+                    {
+                        "name": "Wutong Wood",
+                        "amount": 24
+                    },
+                    {
+                        "name": "Acacia Stem",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Poison Gland",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Wood Ash",
+                        "amount": 13
+                    }
+                ]
+            },
+            {
+                "name": "China-hemp Cloth",
+                "components": [
+                    {
+                        "name": "Mahogany",
+                        "amount": 28
+                    },
+                    {
+                        "name": "China-hemp Leaf",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Duvernoy's Gland",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Barbs",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Gray Rabbit Fur",
+                        "amount": 8
+                    }
+                ]
+            },
+            {
+                "name": "Polyethylene Fiber",
+                "components": [
+                    {
+                        "name": "China-hemp Leaf",
+                        "amount": 7
+                    },
+                    {
+                        "name": "Peach",
+                        "amount": 13
+                    },
+                    {
+                        "name": "Sharp Fang",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Volcanic Ash",
+                        "amount": 7
+                    }
+                ]
+            },
+            {
+                "name": "Sea Sponge",
+                "components": [
+                    {
+                        "name": "Red Coral",
+                        "amount": 28
+                    },
+                    {
+                        "name": "Macroalgae Leaf",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Ammonite Fossil",
+                        "amount": 2
+                    },
+                    {
+                        "name": "Sucking Disc",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Gray Rabbit Fur",
+                        "amount": 8
+                    }
+                ]
+            },
+            {
+                "name": "Polymer Fiber",
+                "components": [
+                    {
+                        "name": "Macroalgae Leaf",
+                        "amount": 8
+                    },
+                    {
+                        "name": "Bubbly Coral",
+                        "amount": 15
+                    },
+                    {
+                        "name": "Ink Sack",
+                        "amount": 4
+                    },
+                    {
+                        "name": "Volcanic Ash",
+                        "amount": 8
+                    }
+                ]
+            }
+        ]
+    },
+    "food": {
+        "gather": {
+            "logging": [
+                {
+                    "name": "Assorted Shumai",
+                    "ingredients": [
+                        {
+                            "name": "Rice",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Meat",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Vegetable",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "S.Logging Crit Chance",
+                        "Ammo Capacity Increase",
+                        "Thunderstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Baked Tuna Rice Rolls",
+                    "ingredients": [
+                        {
+                            "name": "Tuna",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Seasoning",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Speed",
+                        "Swimming Speed",
+                        "Sprint Energy Increase"
+                    ]
+                },
+                {
+                    "name": "Blueberry Biscuit",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Blueberry",
+                            "amount": 2
+                        }
+                    ],
+                    "effect": [
+                        "Logging Speed"
+                    ]
+                },
+                {
+                    "name": "Braised High-Fin Banded Shark",
+                    "ingredients": [
+                        {
+                            "name": "High-Fin Banded Shark",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Movement Speed",
+                        "Logging Crit Chance",
+                        "Logging Speed"
+                    ]
+                },
+                {
+                    "name": "Braised White Radish",
+                    "ingredients": [
+                        {
+                            "name": "White Radish",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Sauce",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Leek, ginger, and garlic",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit Chance",
+                        "Logging Speed"
+                    ]
+                },
+                {
+                    "name": "Cantaloupe Cake",
+                    "ingredients": [
+                        {
+                            "name": "Honeydew Melon",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Milk",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "S.Logging Crit Chance",
+                        "Logging Speed",
+                        "Hemp Gathering Mastery"
+                    ]
+                },
+                {
+                    "name": "Coconut with Steamed Rice",
+                    "ingredients": [
+                        {
+                            "name": "Coconut",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "HP Regen",
+                        "Sandstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Cold Rice Cake",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Seasoning",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Logging Speed",
+                        "Thunderstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Crystal Shrimp Dumpling",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit Chance",
+                        "Logging Speed"
+                    ]
+                },
+                {
+                    "name": "Dandan Noodles",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Seasoning",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Logging Speed",
+                        "Thunderstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Double Skin Milk",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Ice",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Milk",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Sprint Energy",
+                        "Logging Crit"
+                    ]
+                },
+                {
+                    "name": "Egg Crepes With Shrimp & Potatoes",
+                    "ingredients": [
+                        {
+                            "name": "Potato",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Egg",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Max Energy Raising Rate",
+                        "S.Logging Crit"
+                    ]
+                },
+                {
+                    "name": "Fermented Glutinous Rice",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Seasoning",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Swamp Resistance",
+                        "Firing Rate Increase"
+                    ]
+                },
+                {
+                    "name": "French Toast",
+                    "ingredients": [
+                        {
+                            "name": "Fruit",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Milk",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Egg",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Sugar",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Speed",
+                        "Logging Crit"
+                    ]
+                },
+                {
+                    "name": "Fried Ice Acanthodian",
+                    "ingredients": [
+                        {
+                            "name": "Ice Acanthodian",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Logging Efficiency",
+                        "Movement Speed"
+                    ]
+                },
+                {
+                    "name": "Ginger Milk Curd",
+                    "ingredients": [
+                        {
+                            "name": "Honey",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Milk",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Leek",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Movement Speed",
+                        "Cure Cold"
+                    ]
+                },
+                {
+                    "name": "Grilled Grass Carp",
+                    "ingredients": [
+                        {
+                            "name": "Grass Carp",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Logging Speed",
+                        "Logging Crit"
+                    ]
+                },
+                {
+                    "name": "Grilled Parrotfish",
+                    "ingredients": [
+                        {
+                            "name": "Parrotfish",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Logging Speed",
+                        "Logging Crit"
+                    ]
+                },
+                {
+                    "name": "Grilled Red Stingray",
+                    "ingredients": [
+                        {
+                            "name": "Red Stingray",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Logging Efficiency",
+                        "Logging Crit",
+                        "Hemp Gathering Mastery"
+                    ]
+                },
+                {
+                    "name": "Grilled Ribbonfish",
+                    "ingredients": [
+                        {
+                            "name": "Ribbonfish",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Logging Speed"
+                    ]
+                },
+                {
+                    "name": "Honey Croissant",
+                    "ingredients": [
+                        {
+                            "name": "Honey",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit"
+                    ]
+                },
+                {
+                    "name": "Lotus Paste & Yolk Mooncake",
+                    "ingredients": [
+                        {
+                            "name": "Special Flour",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Lotus Seed & Salted Egg Yolk",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Logging Speed"
+                    ]
+                },
+                {
+                    "name": "Milk Cheese Paste",
+                    "ingredients": [
+                        {
+                            "name": "Milk",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Thunderstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Milky Croissant",
+                    "ingredients": [
+                        {
+                            "name": "Milk",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit"
+                    ]
+                },
+                {
+                    "name": "Mung Bean & Ham",
+                    "ingredients": [
+                        {
+                            "name": "Sticky Rice",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Mung Bean",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Ham",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit"
+                    ]
+                },
+                {
+                    "name": "Orange Cookies",
+                    "ingredients": [
+                        {
+                            "name": "Sweet Orange",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Sugar",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Max Energy Raising Rate",
+                        "P.Logging Crit",
+                        "Logging Speed"
+                    ]
+                },
+                {
+                    "name": "Pumpkin Rice",
+                    "ingredients": [
+                        {
+                            "name": "Pumpkin",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "S.Logging Crit",
+                        "Swamp Resistant"
+                    ]
+                },
+                {
+                    "name": "Red Bean Paste Dumplings",
+                    "ingredients": [
+                        {
+                            "name": "Red Bean",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 3
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Logging Speed"
+                    ]
+                },
+                {
+                    "name": "Safe and Lucky Bamboo",
+                    "ingredients": [
+                        {
+                            "name": "Cucumber",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Corn",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Carrot",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Sugar",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Logging Speed",
+                        "Max HP",
+                        "Increase Body Temperature"
+                    ]
+                },
+                {
+                    "name": "Salted Pork with Bamboo Shoots",
+                    "ingredients": [
+                        {
+                            "name": "Bamboo Shoots",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Meat",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Leek, ginger, and garlic",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Logging Speed",
+                        "Thunderstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Seafood Congee",
+                    "ingredients": [
+                        {
+                            "name": "Fish",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Crab",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Swamp Resistance"
+                    ]
+                },
+                {
+                    "name": "Seafood Pasta",
+                    "ingredients": [
+                        {
+                            "name": "Lemon",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Blizzard Resistance"
+                    ]
+                },
+                {
+                    "name": "Shiitake & Ham",
+                    "ingredients": [
+                        {
+                            "name": "Sticky Rice",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Shiitake",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Ham",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Speed"
+                    ]
+                },
+                {
+                    "name": "Sour and Spicy White Radish",
+                    "ingredients": [
+                        {
+                            "name": "White Radish",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Pepper",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Sauce",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Logging Speed",
+                        "Snowstorm Resistance",
+                        "Body Temperature Increase"
+                    ]
+                },
+                {
+                    "name": "Steamed Hilsa Herring",
+                    "ingredients": [
+                        {
+                            "name": "Hilsa Herring",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit",
+                        "Logging Speed",
+                        "Movement Speed"
+                    ]
+                },
+                {
+                    "name": "Vegetable Cake",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Vegetable",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Logging Crit"
+                    ]
+                }
+            ],
+            "mining": [
+                {
+                    "name": "Bone and Radish Soup",
+                    "ingredients": [
+                        {
+                            "name": "White Radish",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Meat",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Ice Cube",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Leek, ginger, and garlic",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed",
+                        "Mining Crit",
+                        "Snowstorm Resistance",
+                        "Body Temp Increase"
+                    ]
+                },
+                {
+                    "name": "Braised Eel",
+                    "ingredients": [
+                        {
+                            "name": "Eel",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Mining Crit",
+                        "Movement Speed"
+                    ]
+                },
+                {
+                    "name": "Braised Lobster",
+                    "ingredients": [
+                        {
+                            "name": "Vegetable",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Mining Speed"
+                    ]
+                },
+                {
+                    "name": "Braised Mudskipper",
+                    "ingredients": [
+                        {
+                            "name": "Mudskipper",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Mining Speed",
+                        "Hemp Gathering Mastery"
+                    ]
+                },
+                {
+                    "name": "Brown Sugar Rice Cake",
+                    "ingredients": [
+                        {
+                            "name": "Honey",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Sandstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Cantaloupe and Coconut Milk Pudding",
+                    "ingredients": [
+                        {
+                            "name": "Honeydew Melon",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Coconut",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Milk",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Sugar",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "S.Mining Crit",
+                        "Mining Crit",
+                        "Hemp Gathering Mastery"
+                    ]
+                },
+                {
+                    "name": "Chestnut & Shrimp",
+                    "ingredients": [
+                        {
+                            "name": "Rice",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Chestnut",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit"
+                    ]
+                },
+                {
+                    "name": "Crispy Apple Slices",
+                    "ingredients": [
+                        {
+                            "name": "Apple",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Lemon",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "P.Mining Crit",
+                        "Max Energy"
+                    ]
+                },
+                {
+                    "name": "Crispy Fried Apple",
+                    "ingredients": [
+                        {
+                            "name": "Apple",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Cooking Oil",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "S.Mining Crit",
+                        "Mining Speed",
+                        "Max Energy"
+                    ]
+                },
+                {
+                    "name": "Egg Dumplings with Fresh Bamboo Shoots",
+                    "ingredients": [
+                        {
+                            "name": "Bamboo Shoot",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Egg",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Mining Speed",
+                        "Thunderstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Egg Tart",
+                    "ingredients": [
+                        {
+                            "name": "Honey",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Milk",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit"
+                    ]
+                },
+                {
+                    "name": "Fried Egg Soup with Shredded Radish",
+                    "ingredients": [
+                        {
+                            "name": "White Radish",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Ice Cube",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Egg",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Leek, ginger, and garlic",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Cure Cold"
+                    ]
+                },
+                {
+                    "name": "Fried Fishfinger",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Fish",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed Increase"
+                    ]
+                },
+                {
+                    "name": "Fried Seafood Rice",
+                    "ingredients": [
+                        {
+                            "name": "Rice",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Crab",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "HP Regen"
+                    ]
+                },
+                {
+                    "name": "Fried Sole Fish",
+                    "ingredients": [
+                        {
+                            "name": "Sole Fish",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Mining Efficiency",
+                        "Movement Speed"
+                    ]
+                },
+                {
+                    "name": "Fruit Ice Congee",
+                    "ingredients": [
+                        {
+                            "name": "Fruit",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Ice",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Milk",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Movement Speed",
+                        "Mining Speed",
+                        "Sandstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Ginger Tea",
+                    "ingredients": [
+                        {
+                            "name": "Leek",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Honey",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Ice",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Cure Cold",
+                        "Swimming Speed",
+                        "Mining Speed",
+                        "Energy consumption decreased when running"
+                    ]
+                },
+                {
+                    "name": "Grilled Catfish",
+                    "ingredients": [
+                        {
+                            "name": "Catfish",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed Increase"
+                    ]
+                },
+                {
+                    "name": "Grilled Tilapia",
+                    "ingredients": [
+                        {
+                            "name": "Red Tilapia",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Mining Speed"
+                    ]
+                },
+                {
+                    "name": "Grilled Turbot",
+                    "ingredients": [
+                        {
+                            "name": "Turbot",
+                            "amount": 4
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed"
+                    ]
+                },
+                {
+                    "name": "Maocai",
+                    "ingredients": [
+                        {
+                            "name": "Fruit",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Vegetable",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Mushroom",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Leek",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Movement Speed"
+                    ]
+                },
+                {
+                    "name": "Mushroom Udon Noodles",
+                    "ingredients": [
+                        {
+                            "name": "Mushroom",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit"
+                    ]
+                },
+                {
+                    "name": "Pancake with Julienne Potatoes",
+                    "ingredients": [
+                        {
+                            "name": "Potato",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Sauce",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Oil",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Energy Restored",
+                        "S.Mining Crit"
+                    ]
+                },
+                {
+                    "name": "Peanut Dumplings",
+                    "ingredients": [
+                        {
+                            "name": "Peanuts",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Mining Speed"
+                    ]
+                },
+                {
+                    "name": "Pineapple Mixed Rice",
+                    "ingredients": [
+                        {
+                            "name": "Rice",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Pineapple",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Vegetable",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Mining Speed",
+                        "Max HP"
+                    ]
+                },
+                {
+                    "name": "Pineapple Oil",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Honey",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed",
+                        "Energy Recovery Speed"
+                    ]
+                },
+                {
+                    "name": "Pumpkin Clown Pie",
+                    "ingredients": [
+                        {
+                            "name": "Clownfish",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Pumpkin",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed",
+                        "Mining Crit",
+                        "Hemp Gathering Mastery"
+                    ]
+                },
+                {
+                    "name": "Red Braised Pork and Bamboo Shoots",
+                    "ingredients": [
+                        {
+                            "name": "Bamboo Shoots",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Meat",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Leek, ginger, and garlic",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Cooking Oil",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Movement Speed"
+                    ]
+                },
+                {
+                    "name": "Rice Cake with Milk",
+                    "ingredients": [
+                        {
+                            "name": "Milk",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Seasoning",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "HP Regen"
+                    ]
+                },
+                {
+                    "name": "Scrambled Eggs with Cucumber",
+                    "ingredients": [
+                        {
+                            "name": "Cucumber",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Egg",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Swimming Speed"
+                    ]
+                },
+                {
+                    "name": "Shiitake & Shrimp",
+                    "ingredients": [
+                        {
+                            "name": "Rice",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Shiitake",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed"
+                    ]
+                },
+                {
+                    "name": "Shrimp Rice Rolls",
+                    "ingredients": [
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Sauce",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed",
+                        "Crit Immunity",
+                        "Sandstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Shrimp Curry Fried Rice",
+                    "ingredients": [
+                        {
+                            "name": "Shrimp",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Seasoning",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Crit Immunity",
+                        "Mining Speed",
+                        "Energy Recovery Rate"
+                    ]
+                },
+                {
+                    "name": "Shrimp Wonton",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Sauce",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "S.Mining Crit",
+                        "Mining Speed",
+                        "Sandstorm Resistance"
+                    ]
+                },
+                {
+                    "name": "Shrimp Roe Noodles",
+                    "ingredients": [
+                        {
+                            "name": "Flour",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Pepper",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Sauce",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed",
+                        "Mining Crit"
+                    ]
+                },
+                {
+                    "name": "Snow Skin Mooncake",
+                    "ingredients": [
+                        {
+                            "name": "Special Flour",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Sweet Rice & Coconut",
+                            "amount": 2
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed"
+                    ]
+                },
+                {
+                    "name": "Sour Lime Shrimp",
+                    "ingredients": [
+                        {
+                            "name": "Lemon",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Leek, ginger, and garlic",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Cayenne Pepper",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Speed",
+                        "Mining Crit"
+                    ]
+                },
+                {
+                    "name": "Sushi",
+                    "ingredients": [
+                        {
+                            "name": "Fish",
+                            "amount": 2
+                        },
+                        {
+                            "name": "Vegetable",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Blizzard Resistance"
+                    ]
+                },
+                {
+                    "name": "Sweet Orange Juice",
+                    "ingredients": [
+                        {
+                            "name": "Sweet Orange",
+                            "amount": 3
+                        },
+                        {
+                            "name": "Ice Cube",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Efficiency",
+                        "Mining Crit",
+                        "Max Energy"
+                    ]
+                },
+                {
+                    "name": "Thai Rice Noodles",
+                    "ingredients": [
+                        {
+                            "name": "Leek, ginger, and garlic",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Shrimp",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Vegetable",
+                            "amount": 1
+                        },
+                        {
+                            "name": "Rice",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": [
+                        "Mining Crit",
+                        "Hemp Gathering Mastery"
+                    ]
+                }
+            ],
+            "hemp": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ],
+            "all": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ]
+        },
+        "combat": {
+            "infected": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ],
+            "humanoid": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ],
+            "animal": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ],
+            "building": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ],
+            "crit": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ],
+            "mastery": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ],
+            "hybrid": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ],
+            "other": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                },
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "amount": 1
+                        }
+                    ],
+                    "effects": []
+                }
+            ]
+        }
+    }
+}
